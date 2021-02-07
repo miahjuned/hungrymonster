@@ -1,0 +1,73 @@
+
+body {
+    background-color: bisque;
+    height: 100vh;
+}
+
+.nav{
+    font-size: 20px;
+    font-weight: bold;
+}
+.text-colour{
+    
+    color: #dc3545;
+}
+.img-fluid{
+    height: 100px;
+
+}
+.col-style{
+    width: 25%;
+    margin: 10px;
+    
+    
+}
+.cart-style{
+width: 100%;
+height: 400px;
+cursor: pointer;  
+
+}
+
+.card-body{
+    background-color: tomato; /**aliceblue*/
+    box-shadow: 5px 5px 40px gray;
+}
+
+h6{
+    display: inline-block;
+}
+
+#search-food{
+    margin: 0px 150px;
+    padding: 0px 200px;
+}
+#search-input{
+    width: 600px;
+    height: 50px;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    margin-left: 400px;
+ 
+}
+
+#search-input:focus{
+    border: 2px solid tomato;
+}
+
+
+h4{
+    font-size: 30px;
+    font-weight: bold;
+    color: tomato;
+}
+
+h5{
+    font-size: 25px;
+    font-weight: bold;
+    color:rgb(105, 71, 255);
+}
+
+.singleArea{
+
+}
